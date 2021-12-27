@@ -1,0 +1,1 @@
+# Playground project for testing Go modules
